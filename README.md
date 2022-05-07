@@ -1,5 +1,7 @@
 # Machine-Learning-Project-on-Credit-Card-Applications
 
+Credit Card Application Prediction dataset was downloaded from Kaggle
+
 ## Problem Statement
 
 How can we use the machine learning model to automate the credit card application rather than manual doing?
