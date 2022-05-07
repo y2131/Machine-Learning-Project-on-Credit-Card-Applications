@@ -62,7 +62,7 @@ I have created Age & Employed years column from days birth and days employed col
 
 Thereafter I have done Vintage Analysis on the 2nd dataset and the final outcome as shown
 
-pic
+![Customer ratio](https://user-images.githubusercontent.com/100771366/167238468-c1d5e5d6-b356-48bc-9276-ce39e6bcc271.jpg)
 
 Label column been labeled according to the table drived, as any past due more than 30 days will be labeled as 1 to represent bad customers
 
@@ -74,7 +74,7 @@ Before deploying the model we need to choose the appropriate model
 
 I used pycaret and the result as follows:
 
-pic
+![Model](https://user-images.githubusercontent.com/100771366/167238472-fa4a6ba3-032c-477f-a447-50e4155d05f0.jpg)
 
 Feature selection will boost the model perfomance by reducing the complexity
 I have used RandomForestClassifier to select top 15 features
@@ -91,8 +91,9 @@ But the untune and tuned model gave the same AUC of 0.71
 
 This could be due to not enough data in the dataset or overfitting
 
+This project gives me a good experience in overall machine learning
 
-
+Thank you!
 
 
 
